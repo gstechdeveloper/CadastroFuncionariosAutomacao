@@ -50,7 +50,9 @@ playwright install
 
 Após isso só executar o arquivo App.py que você conseguirá visualizar a automação.
 
+| Developer       | Versão |
+| --------------- | ------ |
+| Gabriel Azevedo | 1.0    |
 
+**ATENÇÃO: Os dados do CSV são meramente ilustrativos, não se tratam de dados reais.**
 
-Versão: 1.0
-Developer: Gabriel Azevedo
