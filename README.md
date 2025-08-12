@@ -6,5 +6,5 @@ Este é um projeto de automação, o mesmo é para mostrar que é possível usar
 
 O exemplo utilizado foi usando o site abaixo:
 
-[https://gstechdeveloper.github.io/CadastroFuncionarios/#/]: 	"Cadastro de Funcionários"
+[https://gstechdeveloper.github.io/CadastroFuncionarios/#/]:"Cadastro de Funcionários"
 
