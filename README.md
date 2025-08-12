@@ -53,5 +53,4 @@ Após isso só executar o arquivo App.py que você conseguirá visualizar a auto
 
 
 Versão: 1.0
-
 Developer: Gabriel Azevedo
